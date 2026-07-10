@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "A Quantum Path for Partial Differential Equations"
+message: "If you use this book, please cite it as below."
+type: book
+authors:
+  - family-names: Li
+    given-names: Xiantao
+year: 2026
+version: "0.9 preview"
+url: "https://quantumpde.org"
+preferred-citation:
+  type: book
+  title: "A Quantum Path to Partial Differential Equations"
+  authors:
+    - family-names: Li
+      given-names: Xiantao
+  year: 2026
+  version: "0.9 preview"
